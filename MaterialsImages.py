@@ -121,3 +121,6 @@ class MaterialsImages():
 #m.show_datasets()
 #m.get_spectrum(340)
 #uc,ix,inv = m.get_indices_unique_compositions()
+
+# wichtig: armsort, argmax, argmin
+# list = [5,1,3,0] -> argsort(list) -> [0,1,3,5]
